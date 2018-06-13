@@ -1,0 +1,10 @@
+{
+  "name": "ngInfiniteScroll",
+  "version": "1.0.0",
+  "description": "Angular directive",
+  "keywords": [
+    "angular",
+  ],
+  "main": "./build/ng-infinite-scroll.js",
+  "license": "MIT",
+}
